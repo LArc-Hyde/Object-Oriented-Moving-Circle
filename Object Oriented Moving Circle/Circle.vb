@@ -37,7 +37,7 @@
         'diameter to 40 pixels.    
         Xcoord = 0
         Ycoord = 0
-        Diameter = 40
+        Diameter = 400
     End Sub
 
     Public Sub New(Dia As Integer)
